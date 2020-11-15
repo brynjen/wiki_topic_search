@@ -1,0 +1,42 @@
+# Mac OS files
+.DS_Store
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+doc/
+out/
+captures/
+
+# Gradle files
+.idea/*
+!.idea/runConfigurations/
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio files
+*.iml
+
+# Logs / Backups
+*.log
+*.old
+*.bak
+
+# IDEA
+*.iws
+*.ipr
+*~
+*.swp
