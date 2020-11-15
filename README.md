@@ -1,2 +1,2 @@
-# wiki_topic_search
+# Wiki Topic Search
 Android example for searching wiki for a topic
